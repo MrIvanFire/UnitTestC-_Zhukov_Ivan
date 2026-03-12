@@ -1,0 +1,10 @@
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb

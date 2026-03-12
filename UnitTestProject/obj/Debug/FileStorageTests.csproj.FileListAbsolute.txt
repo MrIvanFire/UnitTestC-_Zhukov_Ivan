@@ -1,0 +1,11 @@
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.AssemblyReference.cache
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStor.2837AF47.Up2Date
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\ivanz\OneDrive\Рабочий стол\UnitTestingExamples-main\UnitTestingExamples-main\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb

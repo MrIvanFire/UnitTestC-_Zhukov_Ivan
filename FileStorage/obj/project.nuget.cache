@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o65IYO1ru2k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivanz\\OneDrive\\Рабочий стол\\UnitTestingExamples-main\\UnitTestingExamples-main\\UnitTestEx\\UnitTestEx\\FileStorage\\FileStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ivanz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
